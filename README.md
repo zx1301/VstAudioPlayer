@@ -2,8 +2,8 @@
 Audio Player in VST Plugin format (mainly for testing JUCE apps)
 
 Used:
-Visual Studio 2019
-JUCE 6
+- Visual Studio 2019
+- JUCE 6
 
 In current version:
 - can play audio after selecting file 
