@@ -1,5 +1,5 @@
 # VstAudioPlayer
-Audio Player in VST Plugin format (mainly for testing JUCE apps)
+Audio Player in VST Plugin format (created for testing JUCE apps using JUCE's audio plugin host)
 
 Used:
 - Visual Studio 2019
