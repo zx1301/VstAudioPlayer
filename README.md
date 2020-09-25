@@ -14,5 +14,5 @@ Bugs to be fixed:
 - Sound Thumbnail isn't working
 
 Code Snippets/help from:
-https://docs.juce.com/master/tutorial_playing_sound_files.html
-https://github.com/jonathonracz/AudioFilePlayerPlugin
+- https://docs.juce.com/master/tutorial_playing_sound_files.html
+- https://github.com/jonathonracz/AudioFilePlayerPlugin
